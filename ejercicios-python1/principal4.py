@@ -3,7 +3,7 @@
     Manejo de estructuras Tuplas
 """
 
-lista = ("Loja", "Cuenca")
+lista = ("Loja", "Cuenca")  # tuplas es CONSTANTE
 
 
 for l in lista:
